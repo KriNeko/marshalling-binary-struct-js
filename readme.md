@@ -6,6 +6,9 @@ Allows projecting native structures onto structures of a typed array.
 # Install
 `npm i marshalling-binary-struct-js`
 
+# Simple performance test
+https://jsperf.com/marshalling-test-v2-0-1
+
 # Examples
 ```javascript
 const StructJS = require("marshalling-binary-struct-js");
