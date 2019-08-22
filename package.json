@@ -1,0 +1,17 @@
+{
+  "name": "marshalling-binary-struct-js",
+  "version": "0.0.4",
+  "description": "Marshalling binary structures in JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "structure",
+    "binary",
+    "marshalling"
+  ],
+  "author": "RainNeko",
+  "license": "ISC"
+}
