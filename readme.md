@@ -2,6 +2,10 @@
 
 Allows projecting native structures onto structures of a typed array.
   - Status: pre alpha
+  
+# Install
+`npm i marshalling-binary-struct-js`
+
 # Examples
 ```javascript
 const StructJS = require("marshalling-binary-struct-js");
